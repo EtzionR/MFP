@@ -1,5 +1,5 @@
-conda create -n try0 python==3.9 -y
-conda activate try0
+conda create -n mfp python==3.9 -y
+conda activate mfp
 
 pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cu126
 pip install torch_geometric
