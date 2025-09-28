@@ -1,6 +1,6 @@
-# \# MFP: Multi View Feature Propagation
+#  MFP: Multi View Feature Propagation
 
-\## Multi View Graph Feature Propagation for Feature Sparsity and Privacy Preservation.
+## Multi View Graph Feature Propagation for Feature Sparsity and Privacy Preservation.
 
 
 
