@@ -11,4 +11,4 @@ To install proper conda env to run MFP, you can use this following commands:
 ![picture](https://github.com/EtzionR/MFP/raw/main/figures/pipeline.png)
 
 ## License
-MIT © [Etzion Harari](https://github.com/EtzionR) | TAU
+MIT © [Etzion Harari](https://github.com/EtzionR) and [Moshe Unger](https://en-coller.tau.ac.il/profile/mosheunger_62) | TAU
