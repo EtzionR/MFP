@@ -4,7 +4,7 @@ Multi View Graph Feature Propagation for Feature Sparsity and Privacy Preservati
 
 You can learn more on MFP with the following links:
 
-| Description | Link |
+| Title | Link |
 | :---------- | :--- |
 | Arxiv pre-print MFP paper :books: | [https://arxiv.org/abs/2510.11347](https://arxiv.org/abs/2510.11347) |
 | Google colab notebook :rocket: | [MFP_Tutorial](https://colab.research.google.com/drive/1taG0704lVq50dBUq1NThndP2elL9J5In#scrollTo=6xE3qXNvmUcr) |
