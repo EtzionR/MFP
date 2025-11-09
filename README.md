@@ -1,9 +1,15 @@
 #  MFP: Multi View Feature Propagation
 
-## Multi View Graph Feature Propagation for Feature Sparsity and Privacy Preservation.
-Our preprint paper available in arxiv: [https://arxiv.org/abs/2510.11347](https://arxiv.org/abs/2510.11347)
+Multi View Graph Feature Propagation for Feature Sparsity and Privacy Preservation.
 
-You can find code tutorial in the following google colab notebook: [MFP_Tutorial](https://colab.research.google.com/drive/1taG0704lVq50dBUq1NThndP2elL9J5In#scrollTo=6xE3qXNvmUcr)
+You can learn more on MFP with the following links:
+
+| Description | Link |
+| :---------: | :--: |
+| Arxiv pre-print MFP paper | [https://arxiv.org/abs/2510.11347](https://arxiv.org/abs/2510.11347) |
+| Google colab notebook | [MFP_Tutorial](https://colab.research.google.com/drive/1taG0704lVq50dBUq1NThndP2elL9J5In#scrollTo=6xE3qXNvmUcr) |
+| NotebookLM Podcast on MFP | [Audio/MFP_Podcast_English.m4a](https://github.com/EtzionR/MFP/blob/main/Audio/MFP_Podcast_English.m4a) |
+
 
 To install proper conda env to run MFP, you can use this following commands:
 [build_conda_env.txt](https://github.com/EtzionR/MFP/blob/main/build_conda_env.txt)
