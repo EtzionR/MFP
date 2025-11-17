@@ -9,7 +9,7 @@ You can learn more on MFP with the following links:
 | Arxiv pre-print MFP paper :books: | [https://arxiv.org/abs/2510.11347](https://arxiv.org/abs/2510.11347) |
 | Google colab notebook :rocket: | [MFP_Tutorial](https://colab.research.google.com/drive/1taG0704lVq50dBUq1NThndP2elL9J5In#scrollTo=6xE3qXNvmUcr) |
 | NotebookLM Podcast on MFP :notes: | [Media/MFP_Podcast_English.m4a](https://github.com/EtzionR/MFP/blob/main/Media/MFP_Podcast_English.m4a) |
-| NotebookLM Video on MFP :video_camera: | [Media/MFP_Video_English.mp4](https://github.com/EtzionR/MFP/blob/main/Media/MFP_Video_English.mp4)|
+| NotebookLM Video on MFP :video_camera: | [MFP_Video_English.mp4](https://www.youtube.com/watch?v=elvaDyqWC-c)|
 
 To install proper conda env to run MFP, you can use this following commands:
 [build_conda_env.txt](https://github.com/EtzionR/MFP/blob/main/build_conda_env.txt)
