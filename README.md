@@ -15,6 +15,9 @@ To install proper conda env to run MFP, you can use this following commands:
 [build_conda_env.txt](https://github.com/EtzionR/MFP/blob/main/build_conda_env.txt)
 
 ## MFP Framework:
+
+Multi-View Feature Propagation (MFP) is a graph-learning framework designed to improve representation quality when node features are missing, sparse, or privacy-sensitive. MFP extends classical Feature Propagation (FP) by introducing multiple noisy partial views of the feature space, each propagated independently across the graph. The final representation is obtained by aggregating (e.g., concatenating) all propagated views.
+
 ![picture](https://github.com/EtzionR/MFP/raw/main/figures/pipeline.png)
 
 ## BibTeX
