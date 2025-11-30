@@ -24,7 +24,7 @@ Multi-View Feature Propagation (MFP) is a graph-learning framework designed to i
 If you find our code useful, please consider citing our work using the following BibTeX entry:
 
 ``` sh
-@misc{harari2025multiviewgraphfeaturepropagation,
+@misc{mfp,
       title={Multi-View Graph Feature Propagation for Privacy Preservation and Feature Sparsity}, 
       author={Etzion Harari and Moshe Unger},
       year={2025},
