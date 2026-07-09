@@ -10,9 +10,10 @@ import torch
 TNSR = type(torch.tensor([]))
 
 # simple functions
-to_torch = lambda mat, device='cpu': (mat if type(mat) == TNSR else torch.from_numpy(mat)).to(torch.device(device))
-cat_union = lambda tensors_list: torch.cat(tensors_list, 1)
-mean_union = lambda tensors_list: torch.mean(torch.stack(tensors_list).float(), dim=0)
+to_torch     = lambda mat, device='cpu': (mat if type(mat) == TNSR else torch.from_numpy(mat)).to(torch.device(device))
+cat_union    = lambda tensors_list: torch.cat(tensors_list, 1)
+mean_union   = lambda tensors_list: torch.mean(torch.stack(tensors_list).float(), dim=0)
+median_union = lambda tensors_list: torch.median(torch.stack(tensors_list).float(), dim=0).values
 
 
 # MFP object
@@ -25,7 +26,7 @@ class MFP:
                  iters=100,
                  views=10,
                  use_tqdm=False,
-                 union_method=cat_union,
+                 union_method=median_union,
                  features_ratio=.8,
                  add_noise=True,
                  mean=0,
